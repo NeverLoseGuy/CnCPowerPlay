@@ -6,7 +6,7 @@ UIImageSourceLink: https://i.imgur.com/T1eOEiF.png
 ModDBLink: https://www.moddb.com/mods/cc-power-play
 NewsLink: https://www.moddb.com/mods/cc-power-play/articles
 DependenceName: ''
-S3HostLink: gen.insave.ovh:9001
+S3HostLink: gen.insave.ovh:9000
 S3BucketName: cncpowerplay
 S3FolderName: modfiles
 S3HostPublicKey: ''
