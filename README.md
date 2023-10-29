@@ -49,7 +49,7 @@ If you want to make any changes to the build, feel free to download the complete
 - **Rat - completed**
 - Cobra:
   - **Variant 1 - completed**
-  - Variant 2 - in progress
+  - **Variant 2 - completed**
   - Variant 3 - in progress
 - Python - not started
 - Hedgehog - not started
