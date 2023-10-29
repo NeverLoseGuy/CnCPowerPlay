@@ -9,3 +9,64 @@ This is the place where I put all the completed (both latest and older) builds. 
 
 ## I want to help and contribute!
 If you want to make any changes to the build, feel free to download the completed builds and make changes. You can then either keep it as an alternate version in a fork repository, or pull request if you think it should be "officially" adopted into the main branch.
+
+# Aesthetics overhaul to-do list and progress
+## Total progress: 19 out of 40 done.
+
+### Solisia (6 out of 8 done)
+- Prophet - not started
+- **Zealot - completed**
+- Crusader - not started
+- **Cupid - completed**
+- **Warden - completed**
+- **Priest - completed**
+- **Seraph - completed**
+- **Bishop - completed**
+### Vulkan (5 out of 8 done)
+- Whiplash:
+  - **Variant 1 - completed**
+  - **Variant 2 - completed**
+  - **Variant 3 - completed**
+- **Ignis - completed**
+- **Ignis Prime - completed**
+- **Robus - completed**
+- Servus - not started
+- **Bothynus - completed**
+- Pugnax - not started
+- Ultima - not started
+### Fulgura (2 out of 8 done)
+- Defender - not started
+- Spotter - not started
+- Enforcer:
+  - **Variant 1 - completed**
+  - **Variant 2 - completed**
+- **Lawmaker - completed**
+- Fortifier - not started
+- Peacemaker - not started
+- Watcher - not started
+- Shieldbreaker - not started
+### Lamina (3 out of 8 done)
+- **Rat - completed**
+- Cobra:
+  - **Variant 1 - completed**
+  - Variant 2 - in progress
+  - Variant 3 - in progress
+- Python - not started
+- Hedgehog - not started
+- **Boa - completed**
+- Warthog - not started
+- Toad:
+  - Variant 1 - not started
+  - Variant 2 - not started
+- Lion:
+  - **Variant 1 - completed**
+  - **Variant 2 - completed**
+### Infernus (3 out of 8 done)
+- Termite - not started
+- Scarab - not started
+- Harbinger - not started
+- **Vanguard - completed**
+- **Conqueror - completed**
+- Hellstorm - not started
+- **Baron - completed**
+- Doomsday - not started
