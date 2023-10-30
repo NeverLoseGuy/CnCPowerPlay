@@ -70,7 +70,7 @@ If you want to make any changes to the build, feel free to download the complete
 - Hellstorm - not started
 - **Baron - completed**
 - Doomsday - not started
-### Command Centers (5 out of 5 done)
+### Command Centers (completed)
 - **Solisia - completed**
 - **Vulkan - completed**
 - **Fulgura - completed**
