@@ -32,7 +32,7 @@ If you want to make any changes to the build, feel free to download the complete
 - **Robus - completed**
 - Servus - not started
 - **Bothynus - completed**
-- Pugnax - in progress
+- **Pugnax - completed**
 - Ultima - in progress
 ### Fulgura (2 out of 8 done)
 - Defender - not started
