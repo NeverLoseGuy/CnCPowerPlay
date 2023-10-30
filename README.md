@@ -13,10 +13,10 @@ If you want to make any changes to the build, feel free to download the complete
 # Aesthetics overhaul to-do list and progress
 ## Total progress: 26 out of 45 done.
 
-### Solisia (7 out of 8 done)
+### Solisia (completed)
 - **Prophet - completed**
 - **Zealot - completed**
-- Crusader - not started
+- **Crusader - completed**
 - **Cupid - completed**
 - **Warden - completed**
 - **Priest - completed**
