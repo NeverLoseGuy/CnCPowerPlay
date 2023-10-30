@@ -11,10 +11,10 @@ This is the place where I put all the completed (both latest and older) builds. 
 If you want to make any changes to the build, feel free to download the completed builds and make changes. You can then either keep it as an alternate version in a fork repository, or pull request if you think it should be "officially" adopted into the main branch.
 
 # Aesthetics overhaul to-do list and progress
-## Total progress: 25 out of 45 done.
+## Total progress: 26 out of 45 done.
 
-### Solisia (6 out of 8 done)
-- Prophet - not started
+### Solisia (7 out of 8 done)
+- **Prophet - completed**
 - **Zealot - completed**
 - Crusader - not started
 - **Cupid - completed**
