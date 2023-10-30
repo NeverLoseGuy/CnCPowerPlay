@@ -45,7 +45,7 @@ If you want to make any changes to the build, feel free to download the complete
 - Peacemaker - not started
 - Watcher - not started
 - Shieldbreaker - not started
-### Lamina (3 out of 8 done)
+### Lamina (4 out of 8 done)
 - **Rat - completed**
 - Cobra:
   - **Variant 1 - completed**
