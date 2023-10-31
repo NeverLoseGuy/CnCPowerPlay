@@ -63,7 +63,7 @@ If you want to make any changes to the build, feel free to download the complete
   - **Variant 2 - completed**
 ### Infernus (4 out of 8 done)
 - **Termite - completed**
-- Scarab - not started
+- Scarab - in progress
 - Harbinger - not started
 - **Vanguard - completed**
 - **Conqueror - completed**
