@@ -11,7 +11,7 @@ This is the place where I put all the completed (both latest and older) builds. 
 If you want to make any changes to the build, feel free to download the completed builds and make changes. You can then either keep it as an alternate version in a fork repository, or pull request if you think it should be "officially" adopted into the main branch.
 
 # Aesthetics overhaul to-do list and progress
-## Total progress: 29 out of 45 done.
+## Total progress: 30 out of 45 done.
 
 ### Solisia (completed)
 - **Prophet - completed**
@@ -61,8 +61,8 @@ If you want to make any changes to the build, feel free to download the complete
 - Lion:
   - **Variant 1 - completed**
   - **Variant 2 - completed**
-### Infernus (3 out of 8 done)
-- Termite - not started
+### Infernus (4 out of 8 done)
+- **Termite - completed**
 - Scarab - not started
 - Harbinger - not started
 - **Vanguard - completed**
