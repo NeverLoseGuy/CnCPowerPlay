@@ -1,4 +1,4 @@
-![Image](/Emblems.png)
+![Image](/PPUserInterface512_002.png)
 
 # Command and Conquer: Power Play
 Your goal is simple: create an army to defend your building and destroy the enemies, while prevent them from doing the same.
